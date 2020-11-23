@@ -1,0 +1,12 @@
+{"255000000": "Car 1", "200000000": "Car 2", "150000000": "Car 3", "128000000": "Car 4", "182089006": "Bicycle 1",
+     "150050004": "Bicycle 2", "90030001": "Bicycle 3", "90030030": "Bicycle 4", "204153255": "Pedestrian 1",
+      "189073155": "Pedestrian 2", "239089191": "Pedestrian 3", "255128000": "Truck 1", "200128000": "Truck 2", "150128000": "Truck 3",
+       "255000": "Small vehicles 1", "200000": "Small vehicles 2", "150000": "Small vehicles 3", "128255": "Traffic signal 1", "30028158":
+        "Traffic signal 2", "60028100": "Traffic signal 3", "255255": "Traffic sign 1", "30220220": "Traffic sign 2", "60157199": "Traffic sign 3",
+         "255255000": "Utility vehicle 1", "255255200": "Utility vehicle 2", "233100000": "Sidebars", "110110000": "Speed bumper", "128128000": "Curbstone",
+     "255193037": "Solid line", "64000064": "Irrelevant signs", "185122087": "Road blocks", "100": "Tractor", 
+     "139099108": "Non-drivable street", "210050115": "Zebra crossing", "255000128": "Obstacles / trash", "255246143": "Poles", 
+     "150000150": "RD restricted area", "204255153": "Animals", "238162173": "Grid structure", "33044177": "Signal corpus", "180050180": "Drivable cobblestone", 
+     "255070185": "Electronic traffic", "238233191": "Slow drive area", "147253194": "Nature object", "150150200": "Parking area",
+      "180150200": "Sidewalk", "72209204": "Ego car", "200125210": "Painted driv. instr.", "159121238": "Traffic guide obj.", "128000255": "Dashed line",
+       "255000255": "RD normal street", "135206255": "Sky", "241230255": "Buildings", "96069143": "Blurred area", "53046082": "Rain dirt"}

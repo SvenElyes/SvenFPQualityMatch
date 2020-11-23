@@ -1,0 +1,130 @@
+(240, 10, 36)
+cutframes/object1/histogramms/histoframe536.jpg 255000000
+(194, 179, 210)
+cutframes/object1/histogramms/histoframe537.jpg 180150200
+(226, 15, 58)
+cutframes/object1/histogramms/histoframe490.jpg 200000000
+(144, 252, 192)
+cutframes/object1/histogramms/histoframe651.jpg 147253194
+(144, 252, 192)
+cutframes/object1/histogramms/histoframe650.jpg 147253194
+(242, 57, 177)
+cutframes/object1/histogramms/histoframe491.jpg 255070185
+(155, 22, 27)
+cutframes/object1/histogramms/histoframe487.jpg 150000000
+(206, 158, 172)
+cutframes/object1/histogramms/histoframe647.jpg 238162173
+(243, 61, 172)
+cutframes/object1/histogramms/histoframe492.jpg 255070185
+(234, 27, 73)
+cutframes/object1/histogramms/histoframe608.jpg 210050115
+(249, 6, 28)
+cutframes/object1/histogramms/histoframe595.jpg 255000000
+(231, 30, 232)
+cutframes/object1/histogramms/histoframe581.jpg 255000255
+(213, 70, 212)
+cutframes/object1/histogramms/histoframe580.jpg 239089191
+(249, 1, 36)
+cutframes/object1/histogramms/histoframe594.jpg 255000000
+(250, 0, 1)
+cutframes/object1/histogramms/histoframe609.jpg 255000000
+(183, 112, 206)
+cutframes/object1/histogramms/histoframe541.jpg 200125210
+(238, 35, 222)
+cutframes/object1/histogramms/histoframe582.jpg 255000255
+(224, 67, 76)
+cutframes/object1/histogramms/histoframe596.jpg 210050115
+(227, 55, 67)
+cutframes/object1/histogramms/histoframe597.jpg 210050115
+(190, 122, 173)
+cutframes/object1/histogramms/histoframe540.jpg 200125210
+(234, 46, 37)
+cutframes/object1/histogramms/histoframe626.jpg 233100000
+(242, 11, 153)
+cutframes/object1/histogramms/histoframe578.jpg 255000128
+(238, 68, 237)
+cutframes/object1/histogramms/histoframe550.jpg 239089191
+(247, 4, 34)
+cutframes/object1/histogramms/histoframe593.jpg 255000000
+(246, 5, 40)
+cutframes/object1/histogramms/histoframe592.jpg 255000000
+(230, 93, 233)
+cutframes/object1/histogramms/histoframe551.jpg 239089191
+(229, 38, 212)
+cutframes/object1/histogramms/histoframe579.jpg 239089191
+(171, 191, 179)
+cutframes/object1/histogramms/histoframe627.jpg 180150200
+(158, 193, 169)
+cutframes/object1/histogramms/histoframe631.jpg 150150200
+(187, 190, 197)
+cutframes/object1/histogramms/histoframe553.jpg 180150200
+(200, 141, 205)
+cutframes/object1/histogramms/histoframe552.jpg 200125210
+(185, 145, 154)
+cutframes/object1/histogramms/histoframe630.jpg 180150200
+(208, 162, 190)
+cutframes/object1/histogramms/histoframe601.jpg 238162173
+(158, 215, 172)
+cutframes/object1/histogramms/histoframe629.jpg 147253194
+(242, 19, 64)
+cutframes/object1/histogramms/histoframe577.jpg 255000128
+(171, 218, 182)
+cutframes/object1/histogramms/histoframe628.jpg 147253194
+(226, 211, 242)
+cutframes/object1/histogramms/histoframe600.jpg 241230255
+(167, 183, 182)
+cutframes/object1/histogramms/histoframe602.jpg 180150200
+(220, 15, 20)
+cutframes/object1/histogramms/histoframe548.jpg 200000000
+(236, 60, 71)
+cutframes/object1/histogramms/histoframe549.jpg 210050115
+(176, 153, 179)
+cutframes/object1/histogramms/histoframe603.jpg 180150200
+(250, 1, 59)
+cutframes/object1/histogramms/histoframe607.jpg 255000000
+(251, 0, 141)
+cutframes/object1/histogramms/histoframe606.jpg 255000128
+(250, 0, 1)
+cutframes/object1/histogramms/histoframe610.jpg 255000000
+(205, 186, 218)
+cutframes/object1/histogramms/histoframe599.jpg 204153255
+(245, 20, 24)
+cutframes/object1/histogramms/histoframe598.jpg 255000000
+(245, 8, 18)
+cutframes/object1/histogramms/histoframe605.jpg 255000000
+(238, 228, 252)
+cutframes/object1/histogramms/histoframe474.jpg 241230255
+(175, 235, 210)
+cutframes/object1/histogramms/histoframe514.jpg 147253194
+(175, 156, 175)
+cutframes/object1/histogramms/histoframe515.jpg 180150200
+(238, 228, 252)
+cutframes/object1/histogramms/histoframe475.jpg 241230255
+(242, 22, 180)
+cutframes/object1/histogramms/histoframe488.jpg 255070185
+(142, 252, 191)
+cutframes/object1/histogramms/histoframe649.jpg 147253194
+(176, 158, 184)
+cutframes/object1/histogramms/histoframe516.jpg 180150200
+(145, 250, 191)
+cutframes/object1/histogramms/histoframe648.jpg 147253194
+(243, 22, 190)
+cutframes/object1/histogramms/histoframe489.jpg 255070185
+(238, 228, 252)
+cutframes/object1/histogramms/histoframe476.jpg 241230255
+(233, 136, 155)
+cutframes/object1/histogramms/histoframe472.jpg 238162173
+(197, 161, 209)
+cutframes/object1/histogramms/histoframe512.jpg 180150200
+(238, 9, 12)
+cutframes/object1/histogramms/histoframe513.jpg 255000000
+(238, 228, 252)
+cutframes/object1/histogramms/histoframe473.jpg 241230255
+(249, 1, 15)
+cutframes/object1/histogramms/histoframe471.jpg 255000000
+(176, 148, 171)
+cutframes/object1/histogramms/histoframe539.jpg 180150200
+(241, 17, 27)
+cutframes/object1/histogramms/histoframe511.jpg 255000000
+(217, 75, 219)
+cutframes/object1/histogramms/histoframe538.jpg 239089191

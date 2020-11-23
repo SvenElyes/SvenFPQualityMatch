@@ -1,0 +1,211 @@
+cutframes/20181107_132300_video/histogramms/histoframe327.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe333.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe253.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe247.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe290.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe284.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe285.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe291.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe246.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe252.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe332.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe326.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe330.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe324.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe318.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe244.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe250.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe278.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe287.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe293.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe292.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe286.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe279.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe251.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe245.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe319.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe325.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe331.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe309.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe335.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe321.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe269.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe241.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe255.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe282.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe296.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe297.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe283.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe254.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe240.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe268.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe320.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe334.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe308.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe322.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe336.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe256.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe242.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe295.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe281.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe280.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe294.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe243.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe257.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe337.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe323.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe344.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe350.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe378.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe387.jpg Drivable cobblestone
+cutframes/20181107_132300_video/histogramms/histoframe191.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe230.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe224.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe218.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe219.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe225.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe231.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe190.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe386.jpg Drivable cobblestone
+cutframes/20181107_132300_video/histogramms/histoframe379.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe351.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe345.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe353.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe347.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe409.jpg Nature object
+cutframes/20181107_132300_video/histogramms/histoframe390.jpg Pedestrian 3
+cutframes/20181107_132300_video/histogramms/histoframe384.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe192.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe227.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe233.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe232.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe226.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe193.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe385.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe408.jpg Sidebars
+cutframes/20181107_132300_video/histogramms/histoframe346.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe352.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe356.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe342.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe381.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe197.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe222.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe236.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe237.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe223.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe196.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe380.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe343.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe357.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe369.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe341.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe355.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe382.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe194.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe209.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe235.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe221.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe220.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe234.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe208.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe195.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe383.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe354.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe340.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe368.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe365.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe371.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe359.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe198.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe211.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe205.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe239.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe238.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe204.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe210.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe199.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe358.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe370.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe364.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe372.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe366.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe206.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe212.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe213.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe207.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe367.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe373.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe377.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe411.jpg Nature object
+cutframes/20181107_132300_video/histogramms/histoframe405.jpg Road blocks
+cutframes/20181107_132300_video/histogramms/histoframe363.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe388.jpg Drivable cobblestone
+cutframes/20181107_132300_video/histogramms/histoframe203.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe217.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe216.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe202.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe389.jpg Pedestrian 3
+cutframes/20181107_132300_video/histogramms/histoframe404.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe362.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe376.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe410.jpg Nature object
+cutframes/20181107_132300_video/histogramms/histoframe348.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe360.jpg Zebra crossing
+cutframes/20181107_132300_video/histogramms/histoframe406.jpg Road blocks
+cutframes/20181107_132300_video/histogramms/histoframe412.jpg Nature object
+cutframes/20181107_132300_video/histogramms/histoframe374.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe228.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe214.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe200.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe201.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe215.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe229.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe413.jpg Nature object
+cutframes/20181107_132300_video/histogramms/histoframe375.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe361.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe407.jpg Sidebars
+cutframes/20181107_132300_video/histogramms/histoframe349.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe306.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe312.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe272.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe266.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe299.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe298.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe267.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe273.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe313.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe307.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe311.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe305.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe339.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe265.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe271.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe259.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe258.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe270.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe264.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe338.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe304.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe310.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe328.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe314.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe300.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe248.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe260.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe274.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe275.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe261.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe249.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe301.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe315.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe329.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe303.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe317.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe277.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe263.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe288.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe289.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe262.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe276.jpg Obstacles / trash
+cutframes/20181107_132300_video/histogramms/histoframe316.jpg Car 1
+cutframes/20181107_132300_video/histogramms/histoframe302.jpg Obstacles / trash

@@ -1,0 +1,125 @@
+cutframes/20181204_154421_video/histogramms/histoframe333.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe247.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe290.jpg Parking area
+cutframes/20181204_154421_video/histogramms/histoframe284.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe285.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe291.jpg Road blocks
+cutframes/20181204_154421_video/histogramms/histoframe246.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe332.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe244.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe250.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe287.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe292.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe251.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe245.jpg Bicycle 1
+cutframes/20181204_154421_video/histogramms/histoframe335.jpg Painted driv. instr.
+cutframes/20181204_154421_video/histogramms/histoframe241.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe282.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe283.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe240.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe268.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe334.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe336.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe242.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe281.jpg Painted driv. instr.
+cutframes/20181204_154421_video/histogramms/histoframe280.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe243.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe337.jpg Painted driv. instr.
+cutframes/20181204_154421_video/histogramms/histoframe344.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe146.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe230.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe224.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe225.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe231.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe147.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe345.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe347.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe145.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe179.jpg Road blocks
+cutframes/20181204_154421_video/histogramms/histoframe227.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe226.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe178.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe144.jpg Zebra crossing
+cutframes/20181204_154421_video/histogramms/histoframe346.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe168.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe183.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe222.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe237.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe223.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe182.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe155.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe169.jpg Zebra crossing
+cutframes/20181204_154421_video/histogramms/histoframe343.jpg Car 3
+cutframes/20181204_154421_video/histogramms/histoframe369.jpg Sky
+cutframes/20181204_154421_video/histogramms/histoframe143.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe157.jpg Zebra crossing
+cutframes/20181204_154421_video/histogramms/histoframe180.jpg Road blocks
+cutframes/20181204_154421_video/histogramms/histoframe209.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe208.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe181.jpg Road blocks
+cutframes/20181204_154421_video/histogramms/histoframe156.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe368.jpg Sky
+cutframes/20181204_154421_video/histogramms/histoframe365.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe173.jpg Animals
+cutframes/20181204_154421_video/histogramms/histoframe211.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe205.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe239.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe238.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe204.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe210.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe172.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe370.jpg Sky
+cutframes/20181204_154421_video/histogramms/histoframe364.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe366.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe170.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe158.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe206.jpg Zebra crossing
+cutframes/20181204_154421_video/histogramms/histoframe212.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe213.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe207.jpg Road blocks
+cutframes/20181204_154421_video/histogramms/histoframe159.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe171.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe367.jpg Sky
+cutframes/20181204_154421_video/histogramms/histoframe363.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe175.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe161.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe203.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe217.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe216.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe202.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe160.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe174.jpg Animals
+cutframes/20181204_154421_video/histogramms/histoframe148.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe362.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe348.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe360.jpg Car 1
+cutframes/20181204_154421_video/histogramms/histoframe176.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe228.jpg Parking area
+cutframes/20181204_154421_video/histogramms/histoframe214.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe200.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe201.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe215.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe229.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe177.jpg Car 2
+cutframes/20181204_154421_video/histogramms/histoframe361.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe312.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe266.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe267.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe313.jpg Pedestrian 3
+cutframes/20181204_154421_video/histogramms/histoframe311.jpg Sidebars
+cutframes/20181204_154421_video/histogramms/histoframe305.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe265.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe264.jpg Obstacles / trash
+cutframes/20181204_154421_video/histogramms/histoframe304.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe314.jpg Drivable cobblestone
+cutframes/20181204_154421_video/histogramms/histoframe300.jpg Truck 1
+cutframes/20181204_154421_video/histogramms/histoframe248.jpg Road blocks
+cutframes/20181204_154421_video/histogramms/histoframe249.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe301.jpg RD normal street
+cutframes/20181204_154421_video/histogramms/histoframe315.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe303.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe263.jpg Truck 1
+cutframes/20181204_154421_video/histogramms/histoframe288.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe289.jpg Nature object
+cutframes/20181204_154421_video/histogramms/histoframe316.jpg Sidewalk
+cutframes/20181204_154421_video/histogramms/histoframe302.jpg Nature object

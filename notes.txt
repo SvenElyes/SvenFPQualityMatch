@@ -1,0 +1,5 @@
+This are Sven Leschber Notes on the Fortgeschirttenenen Praktikum. 
+
+Problem one: The FInd nearest color is rudimentistic and doesnt work properly in 100% of the cases properly. We have the issues that through entroy there could be an error. 
+Problem two: The Program identifies cars, trucks etc. It could be problem araising from there.
+We try to only evalueate object Instances who only appear in a lot of frames.

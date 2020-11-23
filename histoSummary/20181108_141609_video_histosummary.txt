@@ -1,0 +1,61 @@
+cutframes/20181108_141609_video/histogramms/histoframe125.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe130.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe124.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe126.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe127.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe137.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe123.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe122.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe136.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe108.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe120.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe134.jpg Car 1
+cutframes/20181108_141609_video/histogramms/histoframe38.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe39.jpg Car 2
+cutframes/20181108_141609_video/histogramms/histoframe135.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe121.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe109.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe62.jpg Parking area
+cutframes/20181108_141609_video/histogramms/histoframe76.jpg Truck 1
+cutframes/20181108_141609_video/histogramms/histoframe77.jpg Car 2
+cutframes/20181108_141609_video/histogramms/histoframe63.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe75.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe61.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe49.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe48.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe60.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe74.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe144.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe140.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe58.jpg Sidebars
+cutframes/20181108_141609_video/histogramms/histoframe64.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe59.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe141.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe143.jpg Nature object
+cutframes/20181108_141609_video/histogramms/histoframe142.jpg Animals
+cutframes/20181108_141609_video/histogramms/histoframe80.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe43.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe57.jpg Sidebars
+cutframes/20181108_141609_video/histogramms/histoframe42.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe40.jpg Car 2
+cutframes/20181108_141609_video/histogramms/histoframe41.jpg Sidebars
+cutframes/20181108_141609_video/histogramms/histoframe79.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe45.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe44.jpg Pedestrian 2
+cutframes/20181108_141609_video/histogramms/histoframe78.jpg Bicycle 1
+cutframes/20181108_141609_video/histogramms/histoframe46.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe47.jpg Road blocks
+cutframes/20181108_141609_video/histogramms/histoframe104.jpg Bicycle 2
+cutframes/20181108_141609_video/histogramms/histoframe110.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe138.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe139.jpg Car 1
+cutframes/20181108_141609_video/histogramms/histoframe111.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe105.jpg Non-drivable street
+cutframes/20181108_141609_video/histogramms/histoframe113.jpg Truck 1
+cutframes/20181108_141609_video/histogramms/histoframe107.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe106.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe112.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe129.jpg Sidewalk
+cutframes/20181108_141609_video/histogramms/histoframe115.jpg Zebra crossing
+cutframes/20181108_141609_video/histogramms/histoframe114.jpg Pedestrian 3
+cutframes/20181108_141609_video/histogramms/histoframe128.jpg Animals
